@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contactlist> 
+  <contact id="001"> 
+    <name>张三</name>  
+    <telephone>110</telephone>  
+    <age>20</age>  
+    <email>zhangsan@qq.com</email>  
+    <qq号>872544205</qq号>  
+    <qq号>872544205</qq号>  
+    <qq号>872544205</qq号>
+  </contact>  
+  <contact id="002"> 
+    <name>李四</name>  
+    <telephone>15338607193</telephone>  
+    <age>20</age>  
+    <email>lisi@qq.com</email>  
+    <siji>500</siji>
+  </contact>  
+  <contact id="003"> 
+    <name>王五</name>  
+    <telephone>15338607194</telephone>  
+    <age>21</age>  
+    <email>wangwu@qq.com</email>  
+    <qq>13101902</qq> 
+  </contact> 
+</contactlist>

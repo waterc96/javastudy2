@@ -1,0 +1,25 @@
+[INFO ][2018/09/25 20:19:31988][xiangmu.MyGather.gather(MyGather.java:20)]
+开始读取文件。。。..
+  [INFO ][2018/09/25 20:19:37939][xiangmu.MyGather.gather(MyGather.java:39)]
+流关闭
+  [INFO ][2018/09/25 20:19:37941][xiangmu.MyGather.gather(MyGather.java:41)]
+读取文件结束
+  [INFO ][2018/09/25 20:22:21490][xiangmu.servers.main(servers.java:33)]
+服务器在9999端口启动
+  [INFO ][2018/09/25 20:22:38918][xiangmu.servers.main(servers.java:39)]
+127.0.0.1已经连接
+  [INFO ][2018/09/25 20:22:38920][xiangmu.servers.main(servers.java:40)]
+数据正在插入...
+  [INFO ][2018/09/25 20:22:39500][xiangmu.kehuduan.main(kehuduan.java:24)]
+连接ok
+  [INFO ][2018/09/25 20:22:39516][xiangmu.MyGather.gather(MyGather.java:20)]
+开始读取文件。。。..
+  [INFO ][2018/09/25 20:22:44154][xiangmu.MyGather.gather(MyGather.java:39)]
+流关闭
+  [INFO ][2018/09/25 20:22:44156][xiangmu.MyGather.gather(MyGather.java:41)]
+读取文件结束
+  [INFO ][2018/09/25 20:22:55849][xiangmu.kehuduan.main(kehuduan.java:29)]
+数据发送完毕
+  [INFO ][2018/09/25 20:23:01727][xiangmu.servers.main(servers.java:82)]
+插入完成
+  
